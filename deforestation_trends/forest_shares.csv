@@ -1,0 +1,227 @@
+iso3c,country,continent,forests_2000,forests_2020,trend,UN_member
+AFG,Afghanistan,Asia,1.9,1.9,0,yes
+ALB,Albania,Europe,28.1,28.8,2.5,yes
+DZA,Algeria,Africa,0.7,0.8,14.3,yes
+ASM,American Samoa,Oceania,88.7,85.7,-3.4,no
+AND,Andorra,Europe,34,34,0,yes
+AGO,Angola,Africa,62.3,53.4,-14.3,yes
+AIA,Anguilla,North America,61.1,61.1,0,no
+ATG,Antigua and Barbuda,North America,21.5,18.5,-14,yes
+ARG,Argentina,South America,12.2,10.4,-14.8,yes
+ARM,Armenia,Asia,11.7,11.5,-1.7,yes
+ABW,Aruba,North America,2.3,2.3,0,no
+AUS,Australia,Oceania,17.2,17.4,1.2,yes
+AUT,Austria,Europe,46.5,47.3,1.7,yes
+AZE,Azerbaijan,Asia,12,13.7,14.2,yes
+BHS,Bahamas,North America,50.9,50.9,0,yes
+BHR,Bahrain,Asia,0.5,0.9,80,yes
+BGD,Bangladesh,Asia,14.8,14.5,-2,yes
+BRB,Barbados,North America,14.7,14.7,0,yes
+BLR,Belarus,Europe,40.8,43.2,5.9,yes
+BEL,Belgium,Europe,22,22.8,3.6,yes
+BLZ,Belize,North America,64,56,-12.5,yes
+BEN,Benin,Africa,36.7,27.8,-24.3,yes
+BMU,Bermuda,North America,18.5,18.5,0,no
+BTN,Bhutan,Asia,65.5,71.4,9,yes
+BOL,Bolivia,South America,50.9,46.9,-7.9,yes
+BES,Bonaire,South America,5.9,5.9,0,no
+BIH,Bosnia and Herzegovina,Europe,41.2,42.7,3.6,yes
+BWA,Botswana,Africa,31.1,26.9,-13.5,yes
+BRA,Brazil,South America,65.9,59.4,-9.9,yes
+VGB,British Virgin Islands,North America,24.5,24.1,-1.6,no
+BRN,Brunei Darussalam,Asia,75.3,72.1,-4.2,yes
+BGR,Bulgaria,Europe,30.5,35.9,17.7,yes
+BFA,Burkina Faso,Africa,26.4,22.7,-14,yes
+BDI,Burundi,Africa,7.6,10.9,43.4,yes
+CPV,Cape Verde,Africa,9.9,11.3,14.1,yes
+KHM,Cambodia,Asia,61.1,45.7,-25.2,yes
+CMR,Cameroon,Africa,45.7,43,-5.9,yes
+CAN,Canada,North America,38.8,38.7,-0.3,yes
+CYM,Cayman Islands,North America,53.9,53,-1.7,no
+CAF,Central African Republic,Africa,36.8,35.8,-2.7,yes
+TCD,Chad,Africa,5,3.4,-32,yes
+CHL,Chile,South America,21.3,24.5,15,yes
+CHN,China,Asia,18.8,23.3,23.9,yes
+COL,Colombia,South America,56.5,53.3,-5.7,yes
+COM,Comoros,Africa,22.4,17.7,-21,yes
+COG,Congo,Africa,65,64.3,-1.1,yes
+COK,Cook Islands,Oceania,64.9,65,0.2,no
+CRI,Costa Rica,North America,56,59.4,6.1,yes
+CIV,Cote Divore,Africa,16,8.9,-44.4,yes
+HRV,Croatia,Europe,33.7,34.6,2.7,yes
+CUB,Cuba,North America,22.7,31.2,37.4,yes
+CUW,Curacao,North America,0.2,0.2,0,no
+CYP,Cyprus,Europe,18.6,18.7,0.5,yes
+CZE,Czechia,Europe,34.1,34.7,1.8,yes
+PRK,North Korea,Asia,53.6,50.1,-6.5,yes
+COD,Congo Democratic,Africa,63.5,55.6,-12.4,yes
+DNK,Denmark,Europe,14.3,15.7,9.8,yes
+DJI,Djibouti,Africa,0.2,0.3,50,yes
+DMA,Dominica,North America,63.8,63.8,0,yes
+DOM,Dominican republic,North America,40.8,44.4,8.8,yes
+ECU,Ecuador,South America,55.3,50.3,-9,yes
+EGY,Egypt,Africa,0.1,0,-100,yes
+SLV,El Salvador,North America,32.5,28.2,-13.2,yes
+GNQ,Equatorial Guinea,Africa,93.2,87.3,-6.3,yes
+ERI,Eritrea,Africa,9.2,8.7,-5.4,yes
+EST,Estonia,Europe,52.8,56.1,6.3,yes
+SWZ,Eswatini,Africa,27.5,28.9,5.1,yes
+ETH,Ethiopia,Africa,16.4,15.1,-7.9,yes
+FRO,Faroe Islands,Europe,0.1,0.1,0,no
+FJI,Fiji,Oceania,55.1,62.4,13.2,yes
+FIN,Finland,Europe,73.7,73.7,0,yes
+FRA,France,Europe,27.9,31.5,12.9,yes
+GUF,French guiana,South America,97.7,96.6,-1.1,no
+PYF,French Polynesia,Oceania,42.8,43.1,0.7,no
+GAB,Gabon,Africa,92,91.3,-0.8,yes
+GMB,Gambia,Africa,35.3,24,-32,yes
+GEO,Georgia,Asia,39.7,40.6,2.3,yes
+DEU,Germany,Europe,32.5,32.7,0.6,yes
+GHA,Ghana,Africa,38.9,35.1,-9.8,yes
+GRC,Greece,Europe,27.9,30.3,8.6,yes
+GRD,Grenada,North America,52.1,52.1,0,yes
+GLP,Guadeloupe,North America,42.8,44.4,3.7,no
+GUM,Guam,Oceania,44.4,51.9,16.9,no
+GTM,Guatemela,North America,39.3,32.9,-16.3,yes
+GGY,Guernsey,Europe,2.9,5.4,86.2,no
+GIN,Guinea,Africa,28.2,25.2,-10.6,yes
+GNB,Guinea-Bissau,Africa,76.4,70.4,-7.9,yes
+GUY,Guyana,South America,94.3,93.6,-0.7,yes
+HTI,Haiti,North America,13.8,12.6,-8.7,yes
+HND,Honduras,North America,60.6,56.8,-6.3,yes
+HUN,Hungary,Europe,21.4,22.5,5.1,yes
+ISL,Iceland,Europe,0.3,0.5,66.7,yes
+IND,India,Asia,22.7,24.3,7,yes
+IDN,indonesia,Asia,53.9,49.1,-8.9,yes
+IRN,Iran,Asia,5.7,6.6,15.8,yes
+IRQ,Iraq,Asia,1.9,1.9,0,yes
+IRL,Ireland,Europe,9.2,11.4,23.9,yes
+IMN,Isle of Man,Europe,6.1,6.1,0,no
+ISR,Israel,Asia,7.1,6.5,-8.5,yes
+ITA,Italy,Europe,28.3,32.3,14.1,yes
+JAM,Jamaica,North America,48.1,55.1,14.6,yes
+JPN,Japan,Asia,68.2,68.4,0.3,yes
+JEY,Jersey,Europe,5,5,0,no
+JOR,Jordan,Asia,1.1,1.1,0,yes
+KAZ,Kazakhstan,Asia,1.2,1.3,8.3,yes
+KEN,Kenya,Africa,7,6.3,-10,yes
+KIR,Kiribati,Oceania,1.5,1.5,0,yes
+KWT,Kuwait,Asia,0.3,0.4,33.3,yes
+KGZ,Kyrgyzstan,Asia,6.2,6.9,11.3,yes
+LAO,Laos,Asia,75.5,71.9,-4.8,yes
+LVA,Latvia,Europe,52.1,54.8,5.2,yes
+LBN,Lebanon,Asia,13.5,14,3.7,yes
+LSO,Lesotho,Africa,1.1,1.1,0,yes
+LBR,Liberia,Africa,85.4,79.1,-7.4,yes
+LBY,Libya,Africa,0.1,0.1,0,yes
+LIE,Liechtenstein,Europe,41.9,41.9,0,yes
+LTU,Lituania,Europe,32.2,35.1,9,yes
+LUX,Luxembourg,Europe,33.7,34.5,2.4,yes
+MDG,Madagascar,Africa,22.4,21.4,-4.5,yes
+MWI,Malawi,Africa,32.7,23.8,-27.2,yes
+MYS,Malaysia,Asia,59.9,58.2,-2.8,yes
+MDV,Maldives,Asia,2.7,2.7,0,yes
+MLI,Mali,Africa,10.9,10.9,0,yes
+MLT,Malta,Europe,1.1,1.4,27.3,yes
+MHL,Marshall Islands,Oceania,52.2,52.2,0,yes
+MTQ,Martinique,North America,46,49.3,7.2,no
+MRT,Mauritania,Africa,0.4,0.3,-25,yes
+MUS,Mauritius,Africa,20.7,19.1,-7.7,yes
+MYT,Mayotte,Africa,41.9,37.1,-11.5,no
+MEX,Mexico,North America,35.2,33.8,-4,yes
+FSM,Micronesia,Oceania,91.2,92,0.9,yes
+MNG,Mongolia,Asia,9.2,9.1,-1.1,yes
+MNE,Montenegro,Europe,46.5,61.5,32.3,yes
+MSR,Montserrat,North America,25,25,0,no
+MAR,Morocco,Africa,12.3,12.9,4.9,yes
+MOZ,Mozambique,Africa,52.4,46.7,-10.9,yes
+MMR,Myanmar,Asia,53.4,43.7,-18.2,yes
+NAM,Namibia,Africa,9.8,8.1,-17.3,yes
+NPL,Nepal,Asia,41.7,41.6,-0.2,yes
+NLD,Netherlands,Europe,10.6,11,3.8,yes
+NCL,New Caledonia,Oceania,45.8,45.8,0,yes
+NZL,New Zealand,Oceania,37.4,37.6,0.5,yes
+NIC,Nicaragua,North America,44.9,28.3,-37,yes
+NER,Niger,Africa,1,0.9,-10,yes
+NGA,Nigeria,Africa,27.3,23.7,-13.2,yes
+NIU,Niue,Oceania,72.4,72.6,0.3,no
+NFK,Norfolk Island,Oceania,12.2,12.2,0,no
+MKD,North Macedonia,Europe,37.7,39.7,5.3,yes
+MNP,Northern Mariana Island,Oceania,69.5,53,-23.7,no
+NOR,Norway,Europe,39.8,40.1,0.8,yes
+PAK,Pakistan,Asia,5.9,4.8,-18.6,yes
+PLW,Palau,Oceania,86,90,4.7,yes
+PAN,Panama,North America,59.8,56.8,-5,yes
+PNG,Papua New Guinea,Oceania,80.1,79.2,-1.1,yes
+PRY,Paraguay,South America,57.9,40.5,-30.1,yes
+PER,Peru,South America,58.8,56.5,-3.9,yes
+PHL,Philippines,Asia,24.5,24.1,-1.6,yes
+PCN,Pitcairn,Oceania,74.5,74.5,0,no
+POL,Poland,Europe,29.6,31,4.7,yes
+PRT,Portugal,Europe,35.9,36.2,0.8,yes
+PRI,Puerto Rico,North America,48.4,56,15.7,no
+KOR,South Korea,Asia,67.1,64.4,-4,yes
+MDA,Moldova,Europe,10.5,11.8,12.4,yes
+REU,Reunion,Africa,36.4,39.2,7.7,no
+ROU,Romania,Europe,27.7,30.1,8.7,yes
+RUS,Russia,Asia,49.4,49.8,0.8,yes
+RWA,Rwanda,Africa,11.6,11.2,-3.4,yes
+BLM,Saint Barthelemey,North America,8.5,8.5,0,no
+SHN,Saint Helena,Africa,5.1,5.1,0,no
+KNA,Saint Kitts and Nevis,North America,42.3,42.3,0,yes
+LCA,Saint Lucia,North America,34.4,34,-1.2,yes
+MAF,Saint Martin,North America,24.8,24.8,0,no
+SPM,Saint Pierre and Miquelon,North America,7.3,5.3,-27.4,no
+VCT,Saint Vincent and the Grenadines,North America,73.2,73.2,0,yes
+WSM,Samoa,Oceania,60.5,57.1,-5.6,yes
+SMR,San Marino,Europe,16.7,16.7,0,yes
+STP,Sao Tome and Principe,Africa,60.8,54.1,-11,yes
+SAU,Saudi Arabia,Asia,0.5,0.5,0,yes
+SEN,Senegal,Africa,46,41.9,-8.9,yes
+SRB,Serbia,Europe,28.1,31.1,10.7,yes
+SYC,Seychelles,Africa,73.3,73.3,0,yes
+SLE,Sierra Leone,Africa,40.6,35.1,-13.5,yes
+SGP,Singapore,Asia,25.4,21.7,-14.6,yes
+SXM,Sint Maarten,North America,10.9,10.9,0,no
+SVK,Slovakia,Europe,39.5,40.1,1.5,yes
+SVN,Slovenia,Europe,61.2,61.5,0.5,yes
+SLB,Solomon Islands,Oceania,90.7,90.1,-0.7,yes
+SOM,Somalia,Africa,12,9.5,-20.8,yes
+ZAF,South Africa,Africa,14.7,14.1,-4.1,yes
+SSD,South Sudan,Africa,11.3,11.3,0,yes
+ESP,Spain,Europe,34.3,37.2,8.5,yes
+LKA,Sri Lanka,Asia,34.5,34.2,-0.9,yes
+PSE,Palestine,Asia,1.5,1.7,13.3,yes
+SDN,Sudan,Africa,11.8,9.9,-16.1,yes
+SUR,Suriname,South America,98.3,97.4,-0.9,yes
+SWE,Sweden,Europe,69.1,68.7,-0.6,yes
+CHE,Switzerland,Europe,30.3,32.1,5.9,yes
+SYR,Syria,Asia,2.4,2.8,16.7,yes
+TJK,Tajikistan,Asia,2.9,3.1,6.9,yes
+THA,Thailand,Asia,37.2,38.9,4.6,yes
+TLS,Timor-Leste,Asia,63.8,61.9,-3,yes
+TGO,Togo,Africa,23.3,22.2,-4.7,yes
+TON,Tonga,Oceania,12.4,12.4,0,yes
+TTO,Trinidad and tobago,North America,46.1,44.5,-3.5,yes
+TUN,Tunisia,Africa,4.3,4.5,4.7,yes
+TUR,Turkey,Asia,26.2,28.9,10.3,yes
+TKM,Turkmenistan,Asia,8.8,8.8,0,yes
+TCA,Turks and Caicos,North America,11.1,11.1,0,no
+TUV,Tuvalu,Oceania,33.3,33.3,0,yes
+UGA,Uganda,Africa,15.8,11.7,-25.9,yes
+UKR,Ukraine,Europe,16.4,16.7,1.8,yes
+ARE,United Arab Emirates,Asia,4.4,4.5,2.3,yes
+GBR,United Kingdom,Europe,12.2,13.2,8.2,yes
+TZA,Tanzania,Africa,60.6,51.6,-14.9,yes
+USA,United States of America,North America,33.1,33.9,2.4,yes
+VIR,Virgin islands,North America,58.5,56.9,-2.7,no
+URY,Uruguay,South America,7.8,11.6,48.7,yes
+UZB,Uzbekistan,Asia,6.8,8.4,23.5,yes
+VUT,Vanuatu,Oceania,36.3,36.3,0,yes
+VEN,Venezuela,South America,55.7,52.4,-5.9,yes
+VNM,Vietnam,Asia,37.9,46.7,23.2,yes
+WLF,Wallis and futuna,Oceania,41.5,41.6,0.2,no
+ESH,Western sahara,Africa,2.5,2.5,0,no
+YEM,Yemen,Asia,1,1,0,yes
+ZMB,Zambia,Africa,63.3,60.3,-4.7,yes
+ZWE,Zimbabwe,Africa,47.5,45.1,-5.1,yes
