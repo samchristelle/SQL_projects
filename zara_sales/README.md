@@ -96,3 +96,6 @@ This analysis highlights product types, positioning, pricing strategies, and pro
 - Focus inventory on high-performing items
   
 Further data on **promotion types, customer behavior, and online performance** could enhance this analysis. Additionally, data on customer demographics and peak store hours or seasons could provide additional insights for targeted marketing.
+
+### Tableau Visualization
+View the interactive storyboard [here](https://public.tableau.com/views/zara_sales_17532494745300/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to gain more insights.
